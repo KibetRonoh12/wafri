@@ -1,8 +1,5 @@
-# signature-fx
-Signaturefx is a website for a graphics and design startup based in Nairobi, Kenya that I did to flex my skills in front-end web development.
-
-![screenshot](./images/signatureD1.png)
-![screenshot](./images/signatureM1.png)
+# wafri graphics
+Signaturefx is a website for a graphics and design startup based in Nairobi, Kenya that I did to flex my skills in front-end web development
 
 ## Built With
 
@@ -13,7 +10,6 @@ Signaturefx is a website for a graphics and design startup based in Nairobi, Ken
 
 ## Live Demo
 Live site URL to portfolio
-[Live Demo Link](https://nemwel-boniface.github.io/signature-fx/)
 
 
 ## Getting Started
@@ -32,7 +28,7 @@ Live site URL to portfolio
 ### Install
 
 - Open your command prompt or terminal and run.
-- git clone git@github.com:Nemwel-Boniface/signature-fx.git .
+
 
 ### Deployment
 
@@ -45,23 +41,23 @@ Live site URL to portfolio
 
 👤 **Author1**
 
-- GitHub: [@Nemwel-Boniface ](https://github.com/Nemwel-Boniface)
-- Twitter: [@nemwel_bonie](https://twitter.com/nemwel_bonie)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nemwel-nyandoro-aa1b2620b/)
+- GitHub: [@KibetRonoh12 ](https://github.com/KibetRonoh12)
+- Twitter: [@KibetRno](https://twitter.com/KibetRno)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ezra kibet/)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Nemwel-Boniface/signature-fx/issues).
+Feel free to check the [issues page](https://github.com/KibetRonoh12/wafrigraphics/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-Major thanks to [Byron Mwoley](https://www.linkedin.com/in/byron-mwoley-049401193/)
+Major thanks to [Byron Mwoley](https://www.linkedin.com/in/ezra kibet/)
 
 
 ## 📝 License
